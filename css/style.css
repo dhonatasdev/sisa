@@ -35,6 +35,16 @@ body {
 
     left: 0;
 }
+
+
+.titulo {
+    font-size: 30px;
+    padding: 12px;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: white;
+    position: relative;
+}
 .title {
     font-size: 28px;
     font-weight: bold;
