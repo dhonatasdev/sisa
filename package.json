@@ -1,0 +1,20 @@
+{
+  "name": "sisa",
+  "version": "1.0.0",
+  "description": "repositório para a disciplina de engenharia de software contendo o protótipo de telas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhonatasdev/sisa.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhonatasdev/sisa/issues"
+  },
+  "homepage": "https://github.com/dhonatasdev/sisa#readme"
+}
